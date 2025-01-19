@@ -3,6 +3,7 @@
 [![Build status](https://github.com/commons-app/apps-android-commons/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/commons-app/apps-android-commons/actions?query=branch%3Amaster)
 [![Preview the app](https://img.shields.io/badge/Preview-Appetize.io-orange.svg)](https://appetize.io/app/8ywtpe9f8tb8h6bey11c92vkcw)
 [![codecov](https://codecov.io/gh/commons-app/apps-android-commons/branch/master/graph/badge.svg)](https://codecov.io/gh/commons-app/apps-android-commons)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fapps-android-commons.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fapps-android-commons?ref=badge_shield)
 
 The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons. Download the app [here][1], or view our [website][2].
 
@@ -55,3 +56,6 @@ This software is open source, licensed under the [Apache License 2.0][10].
 [9]: https://github.com/commons-app/commons-app-documentation/blob/master/android/Libraries-used.md#libraries-used
 
 [10]: https://www.apache.org/licenses/LICENSE-2.0
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fapps-android-commons.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fapps-android-commons?ref=badge_large)
